@@ -1,2 +1,1 @@
-# sublime-theme-settings
-Sublime Theme Settings
+# Sublime Theme Settings
