@@ -23,4 +23,3 @@ https://github.com/equinusocio/material-theme
 	"theme": "Material-Theme-Palenight.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
-zxzx
